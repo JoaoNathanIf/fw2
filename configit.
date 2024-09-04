@@ -1,0 +1,3 @@
+cmdkey /delete git:https://github.com
+gif config --global user.name "João Nathan Alves de Andrade"
+gif config --global user.email joaonathan9@estudante.ifms.edu.br
